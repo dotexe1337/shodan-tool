@@ -1,2 +1,5 @@
 # shodan-tool
-Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles. It is the foundation of all quantum physics including quantum chemistry, quantum field theory, quantum technology, and quantum information science. 
+A tool for Shodan
+
+# Licensing info
+This program is licensed under the GNU General Public License (GPL) v2.0. For more information, please read LICENSE.md.
